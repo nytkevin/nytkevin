@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I am Kevin a frontend developer based in Canada.
+Experienced front-end developer with a passion for crafting intuitive and user-friendly web applications. With over 2+ years of experience, proficient in a variety of programming languages and development frameworks. Eager to use skills to help an innovative company build a better web.
 
 <!--
 **nytkevin/nytkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
